@@ -18,7 +18,8 @@
   }
 
   .page {
-    padding: theme(spacing.16) theme(spacing.16) !important;
+    /* padding: theme(spacing.16) theme(spacing.16) !important; */
+    padding: theme(spacing.12) theme(spacing.16) !important;
   }
 
   .initial {
